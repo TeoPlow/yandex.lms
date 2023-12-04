@@ -30,7 +30,7 @@ https://education.yandex.ru/handbook/algorithms-lms/
 
 GitHub | Telegram | Имя | Ранг |#| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-https://github.com/TeoPlow | @sassyegor | Егор | Тимлид |#|  | 2.4 | 3.6 | 4.4 | 5.5, 5.2 | - | - | 8.3 |
+https://github.com/TeoPlow | @sassyegor | Егор | Тимлид |#| - | 2.4 | 3.6 | 4.4 | 5.5, 5.2 | - | - | 8.3 |
 https://github.com/Vingaell | @Vingael_l | Лёва | Зам.Тимлид |#| 1.4 | - | 3.2, 3.11 | 4.3 | - | - | 7.6 | 8.4 |
 https://github.com/AmMurrr | @rlasarl | Артём | - |#| - | 2.6 | 3.10, 3.7 | 4.2 | - | 6.6 | 7.3 | - | 
 https://github.com/vlakom17 | @Vlaaadik | Влад | - |#| - | 2.3 | 3.5 | 4.1 | - | 6.4, 6.3 | 7.2 | -  | 
