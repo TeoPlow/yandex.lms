@@ -36,5 +36,5 @@ https://github.com/AmMurrr | @rlasarl | Артём | - |#| - | 2.6 | 3.10, 3.7 |
 https://github.com/vlakom17 | @Vlaaadik | Влад | - |#| - | 2.3 | 3.5 | 4.1 | - | 6.4, 6.3 | 7.2 | -  | 
 https://github.com/painwheelgit | @vector_protector | Анастасия | - |  #| - | - | 3.1, 3.4 | - | 5.7 | - | 7.1 | 8.5 | 
 https://github.com/bogjazzz1 | @its_life_yeah | Богдан | - |#| 1.8 | - | 3.3 | - | 5.6 | - | 7.5 | 8.2 | 
---- | @DenisVoit | Денис | - |#| 1.5 | 2.7 | 3.9, 3.13 | - | 5.4 | 6.2 | - | - | 
+https://github.com/xp0ssx | @DenisVoit | Денис | - |#| 1.5 | 2.7 | 3.9, 3.13 | - | 5.4 | 6.2 | - | - | 
 https://github.com/VOZZYBOY | @dasosaker | Эрик | - |#|  -| 2.2, 2.5 | - | - | 5.8, 5.3 | 6.1 | 7.4 | - | 
