@@ -5,7 +5,7 @@
 
 Всего уроков - **58**  (из них **8** без задания).
 
-Всего заданий - **157** 
+Всего заданий - **57** 
 
 Тема | Кол-во заданий | Решено заданий |
 --- | --- | --- |
@@ -30,14 +30,14 @@ https://education.yandex.ru/handbook/algorithms-lms/
 ## **Список задач на оценку 5**
 GitHub | Telegram | Имя | Ранг |#| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-https://github.com/TeoPlow | @sassyegor | Егор | Тимлид |#| - | 2.4 | 3.6 | 4.4 | 5.5, 5.2 | - | - | 8.3 |
-https://github.com/Vingaell | @Vingael_l | Лёва | Зам.Тимлид |#| 1.4 | - | 3.2, 3.11 | 4.3 | - | - | 7.6 | 8.4 |
-https://github.com/AmMurrr | @rlasarl | Артём | - |#| - | 2.6 | 3.10, 3.7 | 4.2 | - | 6.6 | 7.3 | - | 
-https://github.com/vlakom17 | @Vlaaadik | Влад | - |#| - | 2.3 | 3.5 | 4.1 | - | 6.4, 6.3 | 7.2 | -  | 
-https://github.com/painwheelgit | @vector_protector | Анастасия | - |  #| - | - | 3.1, 3.4 | - | 5.7 | - | 7.1 | 8.5 | 
-https://github.com/bogjazzz1 | @its_life_yeah | Богдан | - |#| 1.8 | - | 3.3 | - | 5.6 | - | 7.5 | 8.2 | 
-https://github.com/xp0ssx | @DenisVoit | Денис | - |#| 1.5 | 2.7 | 3.9, 3.13 | - | 5.4 | 6.2 | - | - | 
-https://github.com/VOZZYBOY | @dasosaker | Эрик | - |#|  -| 2.2, 2.5 | - | - | 5.8, 5.3 | 6.1 | 7.4 | - | 
+https://github.com/TeoPlow | @sassyegor | Егор | Тимлид |#| - |  |  |  |  | - | - |  |
+https://github.com/Vingaell | @Vingael_l | Лёва | Зам.Тимлид |#|  | - |  |  | - | - |  |  |
+https://github.com/AmMurrr | @rlasarl | Артём | - |#| - |  |  |  | - |  |  | - | 
+https://github.com/vlakom17 | @Vlaaadik | Влад | - |#| - |  | |  | - |  |  | -  | 
+https://github.com/painwheelgit | @vector_protector | Анастасия | - |  #| - | - |  | - |  | - |  |  | 
+https://github.com/bogjazzz1 | @its_life_yeah | Богдан | - |#|  | - |  | - |  | - |  |  | 
+https://github.com/xp0ssx | @DenisVoit | Денис | - |#|  | |  | - |  |  | - | - | 
+https://github.com/VOZZYBOY | @dasosaker | Эрик | - |#|  -|  | - | - |  |  |  | - | 
 
 ## **Список задач на оценку 4**
 Номер урока в Яндекс ЛМС |	Номер задачи в уроке |
