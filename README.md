@@ -5,7 +5,7 @@
 
 Всего уроков - **58**  (из них **8** без задания).
 
-Всего заданий - **57** 
+Всего заданий - **47** 
 
 Тема | Кол-во заданий | Решено заданий |
 --- | --- | --- |
@@ -30,14 +30,14 @@ https://education.yandex.ru/handbook/algorithms-lms/
 ## **Список задач на оценку 5**
 GitHub | Telegram | Имя | Ранг |#| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-https://github.com/TeoPlow | @sassyegor | Егор | Тимлид |#| - |  |  |  |  | - | - |  |
-https://github.com/Vingaell | @Vingael_l | Лёва | Зам.Тимлид |#|  | - |  |  | - | - |  |  |
-https://github.com/AmMurrr | @rlasarl | Артём | - |#| - |  |  |  | - |  |  | - | 
-https://github.com/vlakom17 | @Vlaaadik | Влад | - |#| - |  | |  | - |  |  | -  | 
-https://github.com/painwheelgit | @vector_protector | Анастасия | - |  #| - | - |  | - |  | - |  |  | 
-https://github.com/bogjazzz1 | @its_life_yeah | Богдан | - |#|  | - |  | - |  | - |  |  | 
-https://github.com/xp0ssx | @DenisVoit | Денис | - |#|  | |  | - |  |  | - | - | 
-https://github.com/VOZZYBOY | @dasosaker | Эрик | - |#|  -|  | - | - |  |  |  | - | 
+https://github.com/TeoPlow | @sassyegor | Егор | Тимлид |#| 1.4(1-2) | 2.7 |  | 4.4 |  | - | 7.3 |  |
+https://github.com/Vingaell | @Vingael_l | Лёва | Зам.Тимлид |#| 1.4(3-4) | 2.6 | 3.12 |  | - | - | 7.2 |  |
+https://github.com/AmMurrr | @rlasarl | Артём | - |#| 1.3 | 2.2 | 3.5 |  | - | 6.1 |  | 8.2 | 
+https://github.com/vlakom17 | @Vlaaadik | Влад | - |#|  1.8 | | | 4.2 | - | 6.3 |  | -  | 
+https://github.com/painwheelgit | @vector_protector | Анастасия | - |  #| 1.2 | 2.5 | 3.9  | - | 5.8 | 6.4 |  |  | 
+https://github.com/bogjazzz1 | @its_life_yeah | Богдан | - |#| 1.5(3-4) | - | 3.8 | - |  | 6.2 | 7.1 |  | 
+https://github.com/xp0ssx | @DenisVoit | Денис | - |#|  | | 3.2 | 4.3 |  | 6.6 | - | - | 
+https://github.com/VOZZYBOY | @dasosaker | Эрик | - |#|  1.5(1-2) |  | 3.1 | 4.1 |  |  | 7.4 | - | 
 
 ## **Список задач на оценку 4**
 Номер урока в Яндекс ЛМС |	Номер задачи в уроке |
@@ -71,8 +71,6 @@ https://github.com/VOZZYBOY | @dasosaker | Эрик | - |#|  -|  | - | - |  |  |
 7.2 | 1 2 |
 7.3 | 1 2 |​ 
 7.4 | 1 | 
-<<<<<<< HEAD
 8.2 | 1 |
-=======
-8.2 | 1 |
+
 >>>>>>> 0b77d611cb72035cbbe0bd5e1fffc08d440679c6
