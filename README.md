@@ -29,11 +29,11 @@ https://education.yandex.ru/handbook/algorithms-lms/
 ## Расспределение заданий по группе:
 GitHub | Telegram | Имя |#| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-https://github.com/TeoPlow | @sassyegor | Егор |#| 1.4.1 1.4.2 | 2.7 |  | 4.4 |  |  | 7.3 |  |
-https://github.com/Vingaell | @Vingael_l | Лёва |#| 1.4.3 1.4.4 | 2.6 | 3.12 |  |  |  | 7.2 |  |
-https://github.com/AmMurrr | @rlasarl | Артём |#| 1.3 | 2.2 | 3.5 |  |  | 6.1 |  | 8.2 | 
+https://github.com/TeoPlow | @sassyegor | Егор |#| 1.4.1(done) 1.4.2(done) | 2.7 |  | 4.4 |  |  | 7.3 |  |
+https://github.com/Vingaell | @Vingael_l | Лёва |#| 1.4.3(done) 1.4.4 | 2.6 | 3.12 |  |  |  | 7.2 |  |
+https://github.com/AmMurrr | @rlasarl | Артём |#| 1.3(done) | 2.2 | 3.5 |  |  | 6.1 |  | 8.2 | 
 https://github.com/vlakom17 | @Vlaaadik | Влад |#|  1.8 | | | 4.2 |  | 6.3 |  |   | 
-https://github.com/painwheelgit | @vector_protector | Анастасия |  #| 1.2 | 2.5 | 3.9  |  | 5.8 | 6.4 |  |  | 
+https://github.com/painwheelgit | @vector_protector | Анастасия |  #| 1.2(done) | 2.5 | 3.9  |  | 5.8 | 6.4 |  |  | 
 https://github.com/bogjazzz1 | @its_life_yeah | Богдан |#| 1.5.3 1.5.4 |  | 3.8 |  |  | 6.2 | 7.1 |  | 
 https://github.com/xp0ssx | @DenisVoit | Денис |#|  | | 3.2 | 4.3 |  | 6.6 |  |  | 
 https://github.com/VOZZYBOY | @dasosaker | Эрик |#|  1.5.1 1.5.2 |  | 3.1 | 4.1 |  |  | 7.4 |  | 
