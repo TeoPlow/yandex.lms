@@ -27,7 +27,6 @@ https://lms.yandex.com/courses/972/groups/11231
 https://education.yandex.ru/handbook/algorithms-lms/
 
 ## Расспределение заданий по группе:
-## **Список задач на оценку 5**
 GitHub | Telegram | Имя |#| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 https://github.com/TeoPlow | @sassyegor | Егор |#| 1.4.1 1.4.2 | 2.7 |  | 4.4 |  |  | 7.3 |  |
